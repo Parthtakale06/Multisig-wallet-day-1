@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Occupation,Income,Brand Preference,Previous Purchases,Purchase Intention
+1,42,Male,Business Owner,87913,Dell,2,0
+2,23,Male,Professional,78802,Lenovo,2,1
+3,51,Female,Professional,22702,HP,4,0
+4,35,Female,Professional,89576,Lenovo,3,0
+5,37,Female,Student,90387,Apple,4,0
+6,52,Male,Student,80458,Dell,2,0
+7,53,Female,Professional,36665,Lenovo,0,1
+8,48,Male,Business Owner,46805,Dell,4,0
+9,34,Male,Student,54845,HP,0,1
+10,31,Female,Student,92799,Apple,2,0
+11,31,Female,Business Owner,42761,HP,4,0
+12,35,Male,Professional,45412,Dell,0,0
+13,54,Female,Professional,37955,HP,3,1
+14,42,Male,Professional,60471,HP,1,0
+15,31,Female,Business Owner,91015,HP,0,0
+16,22,Female,Professional,73526,HP,0,1
+17,46,Male,Business Owner,35076,Apple,3,1
+18,30,Male,Professional,62332,Apple,3,0
+19,18,Female,Professional,35087,Lenovo,3,0
+20,40,Male,Student,97647,Lenovo,3,0
+21,54,Male,Professional,25593,HP,2,1
+22,55,Female,Professional,48526,Lenovo,4,0
+23,21,Female,Business Owner,92688,Dell,3,0
+24,52,Male,Student,32007,Apple,3,1
+25,36,Male,Student,56494,Apple,0,0
+26,37,Male,Professional,38192,Lenovo,3,1
+27,37,Female,Student,33381,Lenovo,1,0
+28,19,Female,Professional,53011,Apple,4,1
+29,42,Male,Professional,36560,Apple,4,0
+30,20,Male,Student,92742,HP,1,1
+31,34,Female,Business Owner,63241,Lenovo,0,1
+32,24,Male,Student,61896,Dell,0,0
+33,30,Male,Student,43651,HP,0,0
+34,30,Male,Professional,97710,Dell,4,0
+35,27,Female,Student,41823,Apple,3,1
+36,32,Female,Business Owner,26221,Dell,4,0
+37,29,Female,Professional,65061,Dell,3,1
+38,18,Male,Student,60756,Dell,4,0
+39,26,Male,Student,24741,HP,0,0
+40,26,Female,Student,42161,Apple,4,0
+41,48,Male,Student,20324,HP,4,1
+42,30,Male,Business Owner,68553,Dell,0,0
+43,29,Female,Professional,86921,HP,1,0
+44,30,Male,Student,84449,HP,1,1
+45,29,Female,Student,68316,Dell,4,1
+46,53,Female,Student,26359,Lenovo,1,1
+47,58,Male,Professional,89606,HP,4,0
+48,32,Female,Business Owner,98092,Dell,3,0
+49,51,Female,Business Owner,20992,Apple,4,0
+50,31,Male,Professional,99643,Lenovo,1,0
+51,39,Female,Business Owner,82882,Dell,4,1
+52,30,Male,Professional,78132,Lenovo,0,0
+53,30,Female,Student,35127,Lenovo,3,0
+54,23,Female,Professional,78519,HP,1,0
+55,51,Female,Business Owner,73201,Apple,0,0
+56,48,Male,Professional,80267,Lenovo,2,1
+57,53,Female,Student,92653,HP,4,1
+58,50,Male,Professional,87807,Lenovo,2,0
+59,42,Male,Student,35416,Apple,4,0
+60,29,Male,Business Owner,79328,Apple,0,0
+61,20,Female,Professional,70860,HP,0,1
+62,30,Female,Professional,30213,Dell,2,0
+63,31,Female,Business Owner,58136,Dell,4,0
+64,50,Male,Student,31095,HP,0,0
+65,54,Female,Professional,33402,Dell,2,1
+66,49,Male,Professional,68156,Lenovo,1,0
+67,59,Male,Business Owner,93013,HP,1,0
+68,42,Female,Student,24959,Dell,4,0
+69,31,Male,Business Owner,59519,HP,3,1
+70,29,Male,Student,73819,Lenovo,4,0
+71,36,Female,Professional,82885,Dell,4,0
+72,19,Male,Business Owner,35382,Apple,0,0
+73,32,Female,Professional,28853,Apple,0,1
+74,20,Male,Student,47997,Apple,2,0
+75,47,Female,Student,59051,Lenovo,0,0
+76,34,Female,Professional,38861,HP,2,0
+77,18,Male,Student,20352,HP,2,0
+78,48,Female,Student,59644,Lenovo,2,0
+79,34,Female,Student,39536,Lenovo,0,0
+80,35,Female,Professional,23170,Lenovo,3,1
+81,38,Male,Business Owner,52548,Dell,0,1
+82,21,Male,Professional,22878,Dell,3,0
+83,42,Male,Professional,91710,HP,1,0
+84,34,Female,Business Owner,35417,Lenovo,0,0
+85,44,Female,Professional,92852,HP,2,0
+86,18,Male,Business Owner,70396,HP,2,1
+87,45,Female,Professional,89374,Apple,3,0
+88,23,Male,Student,36833,Lenovo,4,0
+89,43,Female,Business Owner,47635,Apple,0,0
+90,28,Male,Business Owner,79321,Dell,1,1
+91,44,Female,Student,43434,Lenovo,0,1
+92,40,Female,Business Owner,35298,Dell,2,1
+93,57,Male,Professional,48520,Apple,1,0
+94,46,Male,Student,65342,Apple,3,1
+95,49,Female,Professional,62271,Dell,4,0
+96,38,Female,Professional,98045,HP,3,1
+97,18,Male,Business Owner,47765,Apple,0,1
+98,34,Male,Professional,57752,HP,1,1
+99,30,Female,Professional,43142,Lenovo,4,1
+100,25,Male,Professional,42114,Lenovo,3,0
+101,45,Female,Student,83973,HP,2,0
+102,31,Male,Student,35747,HP,0,0
+103,19,Male,Professional,35119,Apple,3,0
+104,28,Female,Professional,93273,Dell,4,1
+105,53,Male,Professional,70288,Lenovo,3,0
+106,53,Female,Professional,86637,Apple,2,0
+107,19,Female,Student,23700,HP,3,0
+108,57,Male,Student,93960,Lenovo,3,0
+109,35,Female,Business Owner,31327,HP,3,0
+110,30,Female,Business Owner,92698,HP,2,1
+111,43,Male,Professional,78202,Apple,3,0
+112,18,Male,Student,61076,Apple,4,0
+113,48,Male,Business Owner,84987,Lenovo,2,0
+114,51,Male,Student,83139,Lenovo,2,1
+115,34,Female,Student,40562,Lenovo,2,1
+116,20,Female,Student,51096,Dell,2,1
+117,52,Female,Student,22304,Apple,3,0
+118,59,Male,Business Owner,75809,Apple,2,1
+119,51,Female,Professional,97915,Dell,1,0
+120,35,Female,Business Owner,55416,Apple,1,0
+121,35,Male,Professional,27607,Apple,4,0
+122,55,Male,Professional,38778,Dell,3,0
+123,47,Female,Student,47267,Apple,1,1
+124,41,Male,Business Owner,31175,HP,4,1
+125,56,Male,Professional,48791,Dell,3,0
+126,58,Female,Professional,73188,Lenovo,0,1
+127,30,Female,Professional,79756,Dell,0,0
+128,35,Female,Student,38385,Dell,4,1
+129,47,Female,Professional,90442,Lenovo,2,0
+130,37,Male,Professional,84475,Apple,0,0
+131,39,Male,Professional,92479,HP,4,0
+132,32,Female,Business Owner,57226,Apple,2,0
+133,47,Male,Student,90406,Apple,1,1
+134,51,Female,Student,97074,Lenovo,1,0
+135,33,Male,Professional,89969,Apple,0,0
+136,41,Female,Professional,59571,Dell,4,0
+137,38,Male,Business Owner,82658,Lenovo,2,1
+138,36,Female,Professional,93329,HP,1,0
+139,51,Male,Professional,20099,Lenovo,1,0
+140,53,Female,Student,39727,Lenovo,1,0
+141,19,Female,Business Owner,26331,Dell,4,1
+142,47,Female,Business Owner,95042,HP,4,0
+143,23,Male,Business Owner,37844,Dell,1,0
+144,38,Male,Student,49832,Apple,0,0
+145,21,Male,Business Owner,90041,Lenovo,4,1
+146,30,Female,Student,70927,Dell,2,1
+147,23,Female,Student,89695,Apple,0,0
+148,47,Female,Business Owner,84173,Lenovo,2,0
+149,50,Female,Student,42338,Dell,4,0
+150,59,Male,Business Owner,27860,Lenovo,3,1
+151,53,Female,Professional,41349,HP,1,0
+152,22,Male,Professional,84771,Apple,3,0
+153,41,Male,Professional,75177,Dell,2,0
+154,28,Female,Business Owner,35622,HP,4,1
+155,53,Female,Student,85580,Dell,3,0
+156,18,Female,Student,28422,Lenovo,0,0
+157,44,Male,Student,57070,Dell,4,0
+158,47,Female,Professional,99159,Lenovo,3,1
+159,46,Female,Student,96692,Lenovo,2,0
+160,23,Female,Business Owner,20727,Apple,4,0
+161,41,Female,Professional,49721,Dell,0,0
+162,35,Female,Student,57241,HP,3,0
+163,44,Male,Student,43776,HP,2,0
+164,49,Female,Business Owner,84232,Dell,4,0
+165,33,Female,Professional,67543,Dell,1,0
+166,43,Female,Business Owner,61580,Lenovo,2,1
+167,43,Male,Student,50300,HP,4,0
+168,25,Female,Professional,62796,Dell,1,1
+169,25,Female,Student,90554,HP,0,1
+170,51,Female,Professional,51520,HP,4,0
+171,48,Female,Professional,72402,HP,1,1
+172,39,Female,Student,82833,Lenovo,4,1
+173,58,Male,Business Owner,70246,HP,3,1
+174,49,Male,Professional,65302,Apple,4,1
+175,49,Female,Business Owner,77147,HP,1,1
+176,38,Male,Professional,54815,Dell,2,0
+177,50,Female,Student,30362,Lenovo,0,0
+178,39,Male,Student,34979,HP,2,1
+179,53,Female,Business Owner,97148,HP,0,0
+180,46,Male,Business Owner,69173,Apple,1,0
+181,52,Female,Student,62347,Apple,0,0
+182,36,Male,Student,53319,Dell,1,1
+183,49,Female,Student,42663,Apple,2,0
+184,26,Female,Business Owner,96279,Apple,2,1
+185,56,Male,Professional,35883,Lenovo,2,0
+186,26,Male,Professional,72624,HP,1,0
+187,38,Male,Professional,32175,Apple,4,0
+188,48,Female,Business Owner,78332,HP,4,0
+189,29,Female,Business Owner,76078,Dell,3,0
+190,23,Male,Business Owner,91619,Lenovo,3,0
+191,57,Female,Business Owner,32223,Dell,0,0
+192,41,Female,Business Owner,73369,Apple,3,1
+193,42,Female,Student,28864,Apple,4,0
+194,51,Female,Student,69307,Lenovo,1,0
+195,37,Female,Student,20410,Apple,1,1
+196,49,Female,Business Owner,26218,Apple,1,0
+197,47,Male,Professional,46033,Apple,1,0
+198,31,Female,Professional,35424,Apple,1,0
+199,40,Female,Professional,37304,Apple,4,0
+200,49,Male,Professional,22030,HP,4,0
+201,19,Female,Student,91264,Lenovo,0,1
+202,36,Male,Student,74010,Apple,3,1
+203,50,Male,Professional,96173,Lenovo,3,0
+204,21,Female,Business Owner,41800,Lenovo,0,0
+205,24,Female,Professional,71605,Dell,1,1
+206,44,Female,Professional,75293,HP,2,0
+207,47,Male,Business Owner,53893,Apple,2,1
+208,49,Female,Professional,40943,HP,1,0
+209,40,Male,Professional,56542,Dell,3,0
+210,26,Male,Business Owner,84859,Dell,2,1
+211,26,Male,Professional,22426,Dell,1,0
+212,50,Male,Professional,71224,Dell,4,0
+213,46,Male,Professional,86983,Lenovo,4,0
+214,45,Female,Business Owner,54303,HP,2,1
+215,44,Female,Professional,87430,Apple,3,0
+216,58,Male,Business Owner,84948,Lenovo,0,1
+217,49,Male,Professional,86645,HP,0,0
+218,56,Male,Professional,86296,Lenovo,0,0
+219,50,Female,Business Owner,43027,HP,0,0
+220,37,Male,Student,30262,HP,0,0
+221,55,Male,Student,82554,Lenovo,4,0
+222,50,Male,Student,66081,Apple,4,1
+223,44,Female,Business Owner,46327,HP,2,1
+224,44,Male,Professional,87424,Dell,3,0
+225,59,Male,Student,83625,Dell,2,0
+226,47,Female,Student,22506,Dell,4,0
+227,30,Male,Professional,96881,Apple,1,0
+228,28,Female,Professional,53708,Lenovo,4,0
+229,48,Female,Student,36005,HP,4,1
+230,51,Female,Student,53294,Lenovo,2,0
+231,57,Female,Student,22400,HP,4,0
+232,40,Female,Business Owner,22912,Apple,2,0
+233,51,Female,Business Owner,38630,Apple,2,0
+234,48,Female,Business Owner,84993,Lenovo,1,1
+235,59,Female,Business Owner,25578,HP,4,0
+236,32,Female,Professional,96803,Apple,2,0
+237,36,Female,Student,30482,Apple,1,1
+238,21,Female,Business Owner,96852,Lenovo,0,1
+239,49,Male,Student,88980,Lenovo,1,0
+240,27,Female,Business Owner,55949,Apple,4,0
+241,21,Male,Student,98558,Lenovo,2,0
+242,38,Male,Professional,55274,Lenovo,3,0
+243,29,Male,Professional,36782,Dell,1,1
+244,33,Male,Business Owner,64120,Lenovo,2,1
+245,29,Female,Business Owner,54620,Lenovo,2,0
+246,52,Male,Business Owner,50096,HP,3,1
+247,47,Female,Student,87600,HP,0,1
+248,57,Male,Business Owner,84753,HP,0,0
+249,59,Male,Business Owner,56126,Apple,3,0
+250,22,Male,Professional,36117,HP,4,0
+251,52,Female,Business Owner,78789,Dell,3,0
+252,52,Female,Professional,32089,Apple,2,0
+253,28,Female,Business Owner,53824,Dell,0,0
+254,21,Female,Student,32282,Lenovo,4,0
+255,51,Male,Business Owner,70383,Apple,4,1
+256,22,Male,Professional,27680,Apple,3,0
+257,47,Male,Professional,29737,Apple,2,0
+258,22,Male,Business Owner,39167,Dell,0,1
+259,25,Male,Student,42400,HP,2,0
+260,48,Male,Professional,74950,Dell,2,0
+261,35,Female,Business Owner,51297,Apple,1,0
+262,49,Male,Business Owner,88885,Apple,2,1
+263,28,Female,Professional,24111,Apple,2,0
+264,51,Male,Professional,81107,HP,4,0
+265,48,Male,Student,93784,Apple,2,1
+266,52,Female,Student,91897,HP,3,1
+267,33,Male,Student,77350,Lenovo,1,1
+268,30,Male,Professional,31640,HP,1,1
+269,53,Male,Student,70914,Apple,2,0
+270,30,Female,Business Owner,51288,HP,0,1
+271,21,Male,Professional,32097,Apple,3,0
+272,41,Male,Business Owner,71856,HP,3,0
+273,18,Male,Business Owner,75332,Apple,3,0
+274,37,Male,Business Owner,90074,Apple,2,0
+275,51,Female,Business Owner,44611,HP,0,1
+276,24,Male,Student,38128,Apple,1,1
+277,30,Male,Business Owner,86634,Apple,3,0
+278,32,Male,Business Owner,42949,Apple,4,1
+279,30,Male,Student,92031,Dell,2,1
+280,29,Male,Student,53003,Lenovo,0,0
+281,49,Male,Professional,72331,Dell,1,0
+282,37,Male,Business Owner,29740,Apple,2,1
+283,31,Male,Professional,62984,Dell,1,0
+284,36,Female,Student,27642,Apple,4,0
+285,45,Male,Professional,43672,HP,1,0
+286,24,Female,Professional,39012,HP,1,1
+287,34,Male,Professional,96294,Dell,3,0
+288,48,Male,Professional,65588,Dell,2,0
+289,40,Male,Student,66028,Apple,4,0
+290,31,Male,Professional,67746,Lenovo,2,0
+291,59,Male,Student,57710,Apple,4,0
+292,29,Female,Business Owner,73294,Apple,4,0
+293,39,Female,Business Owner,23054,HP,3,1
+294,38,Female,Business Owner,83872,Apple,2,1
+295,54,Male,Professional,27623,Apple,3,0
+296,33,Male,Student,49221,Dell,1,0
+297,51,Female,Business Owner,27668,HP,3,1
+298,32,Male,Business Owner,52672,Lenovo,2,0
+299,52,Female,Business Owner,97624,HP,1,0
+300,24,Male,Professional,41896,Dell,1,0
+301,33,Female,Student,63037,HP,0,1
+302,56,Male,Business Owner,54098,Apple,1,0
+303,20,Male,Professional,78247,HP,4,0
+304,58,Female,Business Owner,50973,Lenovo,1,0
+305,47,Male,Business Owner,46225,Lenovo,1,1
+306,57,Female,Student,65607,HP,2,0
+307,21,Female,Student,36345,Lenovo,4,0
+308,23,Female,Business Owner,92117,Lenovo,3,0
+309,18,Male,Business Owner,77487,Dell,3,0
+310,28,Female,Student,66345,Dell,3,1
+311,43,Male,Student,60411,Dell,1,1
+312,22,Female,Professional,29533,Lenovo,4,0
+313,48,Female,Professional,51709,Dell,2,1
+314,27,Female,Business Owner,62174,Lenovo,1,1
+315,44,Male,Business Owner,77427,Dell,4,0
+316,50,Male,Professional,52039,Lenovo,4,1
+317,22,Male,Business Owner,91683,Apple,2,1
+318,18,Female,Business Owner,99234,Dell,0,0
+319,57,Female,Business Owner,86695,Apple,1,0
+320,29,Male,Professional,87989,Lenovo,4,1
+321,35,Male,Business Owner,65880,Apple,3,0
+322,18,Female,Student,81945,HP,3,0
+323,43,Female,Professional,81188,HP,2,0
+324,34,Female,Business Owner,65904,Apple,0,0
+325,29,Male,Business Owner,23731,HP,2,0
+326,41,Female,Professional,56470,Apple,0,0
+327,41,Male,Student,73682,Dell,2,1
+328,49,Male,Student,81189,Dell,3,0
+329,35,Male,Professional,56152,Lenovo,2,0
+330,32,Female,Student,58339,HP,3,0
+331,28,Male,Student,82463,HP,3,1
+332,37,Male,Professional,58129,Dell,4,1
+333,40,Male,Professional,59569,Apple,1,1
+334,24,Male,Business Owner,36625,Dell,2,0
+335,48,Male,Student,49837,Dell,0,1
+336,59,Female,Professional,53523,Dell,3,0
+337,29,Female,Business Owner,85560,Apple,3,0
+338,30,Female,Business Owner,70009,Dell,2,0
+339,21,Female,Student,27456,Dell,0,1
+340,57,Male,Business Owner,65090,HP,3,1
+341,48,Male,Professional,96823,Dell,2,0
+342,58,Male,Business Owner,24577,Lenovo,1,0
+343,43,Male,Professional,72227,Lenovo,1,1
+344,59,Male,Professional,26258,Lenovo,1,1
+345,20,Female,Professional,62130,Dell,0,1
+346,30,Male,Professional,86035,Dell,2,1
+347,49,Male,Student,23798,Apple,2,0
+348,24,Female,Business Owner,89601,Dell,4,0
+349,18,Female,Student,25231,Lenovo,3,1
+350,56,Male,Student,90673,Lenovo,4,0
+351,26,Female,Student,85086,HP,0,1
+352,29,Female,Student,81243,Lenovo,3,1
+353,33,Male,Professional,95313,Dell,2,0
+354,36,Female,Professional,72447,HP,1,1
+355,56,Male,Student,63595,Lenovo,4,0
+356,58,Female,Business Owner,81147,Lenovo,1,0
+357,55,Male,Professional,36456,Lenovo,2,0
+358,31,Female,Student,21396,Apple,4,1
+359,50,Female,Student,31650,Dell,1,1
+360,44,Male,Business Owner,76111,Lenovo,2,0
+361,21,Female,Business Owner,41988,HP,4,0
+362,32,Male,Business Owner,63796,Lenovo,2,0
+363,35,Male,Student,27892,HP,4,1
+364,21,Male,Business Owner,38021,HP,1,0
+365,33,Male,Student,24108,Lenovo,1,0
+366,31,Female,Business Owner,79431,HP,3,1
+367,37,Female,Student,38078,Apple,4,0
+368,58,Female,Student,31791,Apple,4,0
+369,23,Male,Professional,79290,Dell,4,0
+370,51,Female,Business Owner,55092,Dell,1,0
+371,18,Female,Professional,56129,HP,3,1
+372,52,Female,Student,88814,Dell,2,0
+373,40,Female,Professional,89649,Apple,1,0
+374,26,Female,Business Owner,24367,Lenovo,4,0
+375,58,Male,Business Owner,30902,HP,3,0
+376,56,Female,Business Owner,72192,Dell,4,0
+377,51,Female,Professional,32577,Dell,1,1
+378,36,Female,Professional,74685,Dell,4,0
+379,32,Male,Professional,61720,Apple,3,0
+380,37,Female,Professional,76725,Dell,2,0
+381,49,Male,Professional,97630,Apple,2,0
+382,58,Female,Professional,29341,HP,0,0
+383,41,Female,Business Owner,60307,HP,4,1
+384,51,Female,Student,40001,Dell,4,0
+385,23,Male,Student,41039,Dell,2,0
+386,48,Female,Professional,61444,HP,2,0
+387,36,Female,Student,37280,Apple,0,0
+388,25,Male,Business Owner,44336,Lenovo,4,1
+389,38,Female,Student,40078,Dell,4,1
+390,19,Male,Student,56302,Lenovo,3,0
+391,53,Female,Professional,99078,Apple,3,0
+392,35,Male,Student,90743,Lenovo,0,0
+393,54,Female,Professional,70532,Lenovo,1,0
+394,52,Female,Business Owner,80707,Dell,4,0
+395,19,Male,Professional,85512,Apple,2,1
+396,55,Female,Student,28018,HP,4,0
+397,22,Male,Business Owner,55840,Lenovo,4,0
+398,32,Male,Business Owner,51967,Lenovo,4,0
+399,59,Female,Professional,52710,Lenovo,1,0
+400,36,Male,Business Owner,55556,Lenovo,2,1
+401,48,Male,Professional,91331,Lenovo,4,0
+402,31,Female,Student,50073,Lenovo,4,0
+403,44,Female,Professional,46893,Apple,2,0
+404,45,Female,Student,47832,HP,4,0
+405,41,Male,Professional,58952,Apple,1,0
+406,40,Female,Student,88131,HP,3,0
+407,26,Male,Student,85662,Dell,2,1
+408,26,Male,Student,97686,Dell,4,1
+409,25,Male,Student,50000,Apple,2,0
+410,21,Male,Student,62201,Lenovo,0,0
+411,37,Male,Professional,68359,HP,2,1
+412,55,Male,Professional,83215,Apple,2,0
+413,59,Female,Business Owner,33163,Dell,4,0
+414,31,Male,Student,87006,Dell,0,0
+415,36,Male,Business Owner,25947,Lenovo,1,0
+416,27,Female,Professional,20631,Dell,1,0
+417,51,Female,Business Owner,22830,Lenovo,3,1
+418,58,Male,Professional,73281,Lenovo,3,0
+419,51,Male,Student,46386,Lenovo,3,0
+420,50,Female,Student,76401,Dell,3,1
+421,46,Female,Professional,81873,Lenovo,2,1
+422,30,Female,Professional,55596,Lenovo,2,0
+423,50,Female,Business Owner,77059,Dell,3,1
+424,22,Female,Student,59243,HP,3,0
+425,52,Female,Professional,32719,Dell,1,0
+426,55,Male,Student,41325,Dell,1,0
+427,26,Male,Professional,94724,Lenovo,4,1
+428,34,Male,Student,35827,Lenovo,3,0
+429,50,Female,Student,85018,Apple,1,1
+430,54,Female,Business Owner,93476,Lenovo,0,1
+431,22,Male,Business Owner,31374,Apple,2,0
+432,55,Female,Business Owner,48231,Lenovo,3,0
+433,26,Female,Student,63439,Apple,1,1
+434,33,Male,Business Owner,99462,Dell,4,0
+435,41,Female,Professional,82798,Dell,0,0
+436,45,Female,Business Owner,73111,Lenovo,1,0
+437,48,Male,Student,41698,Apple,3,1
+438,54,Female,Business Owner,71790,HP,2,0
+439,25,Female,Business Owner,76509,Lenovo,3,1
+440,35,Female,Business Owner,89354,Dell,0,1
+441,57,Male,Business Owner,49733,Dell,2,1
+442,56,Male,Business Owner,49363,HP,3,0
+443,24,Female,Business Owner,61624,Dell,4,0
+444,41,Male,Professional,34417,Apple,4,0
+445,44,Female,Business Owner,87233,HP,2,1
+446,36,Female,Student,83879,Apple,2,0
+447,42,Female,Student,75903,Dell,1,1
+448,25,Male,Business Owner,88776,Dell,1,0
+449,56,Female,Student,46437,Dell,4,0
+450,55,Female,Student,29767,HP,0,0
+451,18,Male,Professional,23467,Dell,1,0
+452,39,Male,Business Owner,49972,HP,2,0
+453,35,Female,Business Owner,79516,Lenovo,0,0
+454,55,Female,Business Owner,98483,Dell,1,0
+455,49,Male,Professional,77890,Lenovo,4,0
+456,48,Male,Business Owner,68726,HP,1,0
+457,23,Female,Professional,94565,Lenovo,1,1
+458,21,Male,Student,78476,Dell,1,1
+459,38,Female,Student,66994,Dell,4,0
+460,30,Male,Student,46119,HP,2,0
+461,52,Male,Professional,21548,Lenovo,1,0
+462,39,Male,Business Owner,99714,Apple,3,1
+463,29,Male,Student,48792,HP,2,1
+464,39,Female,Professional,74160,HP,2,0
+465,39,Female,Student,55487,HP,4,1
+466,55,Female,Student,62516,Apple,2,1
+467,48,Female,Business Owner,23258,Dell,0,0
+468,21,Female,Student,82222,HP,0,1
+469,37,Male,Student,66137,Apple,2,0
+470,54,Female,Professional,35608,Lenovo,1,0
+471,44,Male,Business Owner,84662,HP,2,0
+472,24,Male,Student,51045,Apple,0,1
+473,51,Female,Business Owner,87268,HP,4,0
+474,25,Male,Business Owner,61084,Apple,4,1
+475,47,Male,Student,92005,Apple,0,0
+476,31,Male,Student,92482,HP,0,0
+477,19,Female,Professional,66862,Dell,3,1
+478,32,Female,Business Owner,64475,Dell,4,0
+479,30,Female,Student,44672,Dell,1,0
+480,56,Male,Student,58872,Apple,0,1
+481,57,Male,Professional,95390,Apple,3,0
+482,51,Female,Business Owner,70189,HP,0,0
+483,23,Male,Student,57938,Apple,3,0
+484,47,Male,Student,62076,Lenovo,3,1
+485,52,Female,Student,89682,Dell,0,0
+486,54,Male,Professional,99701,HP,4,0
+487,24,Male,Student,62710,HP,1,1
+488,37,Male,Business Owner,87703,Dell,0,1
+489,23,Male,Business Owner,65320,Apple,2,0
+490,38,Female,Business Owner,31230,HP,0,0
+491,49,Female,Business Owner,66244,Lenovo,3,1
+492,35,Female,Professional,63174,Dell,2,0
+493,38,Female,Business Owner,77251,Dell,1,0
+494,54,Female,Professional,43642,Apple,3,0
+495,18,Male,Business Owner,22486,HP,0,1
+496,22,Male,Student,38029,Dell,4,1
+497,21,Female,Student,62446,Dell,0,1
+498,44,Female,Professional,20205,Apple,1,0
+499,19,Male,Business Owner,73044,Dell,4,0
+500,31,Male,Student,58176,HP,3,0
+501,28,Male,Student,72929,HP,4,0
+502,50,Male,Business Owner,65895,Apple,0,1
+503,28,Female,Business Owner,35070,HP,1,0
+504,56,Female,Professional,74081,Apple,1,1
+505,18,Male,Business Owner,98112,Dell,4,0
+506,37,Male,Business Owner,79708,Apple,2,0
+507,45,Male,Student,32025,Lenovo,4,0
+508,42,Male,Professional,48790,Dell,1,0
+509,52,Male,Business Owner,66805,Dell,2,1
+510,56,Female,Business Owner,44180,Apple,3,0
+511,29,Male,Student,65374,Dell,2,0
+512,45,Male,Business Owner,49090,Dell,2,1
+513,36,Female,Professional,39518,Lenovo,1,0
+514,23,Male,Professional,31241,Lenovo,0,0
+515,18,Male,Student,93932,Lenovo,3,1
+516,31,Male,Business Owner,72949,HP,0,0
+517,54,Male,Professional,28065,HP,2,0
+518,31,Male,Professional,81297,HP,0,0
+519,35,Male,Business Owner,95023,HP,0,0
+520,47,Male,Professional,24233,Dell,0,0
+521,47,Male,Professional,38137,Apple,0,1
+522,37,Female,Student,20403,HP,4,0
+523,47,Male,Professional,28921,Lenovo,4,0
+524,25,Female,Business Owner,98879,Dell,1,0
+525,48,Female,Professional,41460,HP,0,0
+526,18,Female,Business Owner,45489,Lenovo,3,0
+527,45,Female,Business Owner,57145,Lenovo,1,1
+528,24,Male,Student,33135,HP,3,0
+529,31,Male,Student,51712,Dell,1,0
+530,25,Male,Professional,20995,HP,0,0
+531,38,Male,Professional,63295,HP,0,0
+532,39,Female,Student,75999,Apple,0,0
+533,43,Male,Student,61970,Dell,2,0
+534,37,Male,Business Owner,59750,Dell,2,1
+535,45,Female,Professional,34648,Apple,4,1
+536,46,Male,Professional,81059,Dell,4,0
+537,59,Male,Business Owner,88161,HP,3,0
+538,51,Female,Business Owner,67228,Dell,0,0
+539,42,Female,Student,23253,Lenovo,3,0
+540,39,Male,Business Owner,49085,Apple,3,1
+541,37,Male,Student,60359,Dell,2,1
+542,29,Male,Student,46155,Lenovo,1,1
+543,38,Female,Student,86241,Dell,2,1
+544,30,Male,Student,72395,HP,3,0
+545,29,Female,Student,33669,Dell,4,0
+546,47,Female,Business Owner,91591,HP,0,0
+547,36,Male,Student,46755,Lenovo,4,0
+548,28,Female,Business Owner,23833,HP,1,0
+549,56,Female,Student,86484,HP,4,0
+550,20,Female,Professional,32058,Apple,1,1
+551,47,Female,Student,67676,Lenovo,0,0
+552,42,Male,Business Owner,22163,Lenovo,2,0
+553,24,Female,Professional,96900,Apple,3,0
+554,22,Male,Student,53217,Dell,0,0
+555,55,Female,Business Owner,90248,Dell,2,0
+556,42,Male,Student,26961,Dell,1,0
+557,55,Female,Student,98975,Dell,4,1
+558,32,Male,Professional,75754,HP,0,1
+559,45,Female,Professional,45247,Apple,2,0
+560,22,Male,Professional,32780,Dell,1,0
+561,38,Male,Student,74247,Lenovo,0,0
+562,26,Female,Professional,32915,HP,1,1
+563,35,Male,Student,30103,Apple,3,1
+564,50,Female,Student,34568,Dell,4,1
+565,40,Female,Professional,65820,Dell,0,1
+566,18,Male,Student,97890,Apple,0,0
+567,32,Female,Business Owner,88954,Lenovo,1,0
+568,37,Female,Student,99550,HP,3,0
+569,49,Male,Professional,61213,HP,1,0
+570,31,Female,Professional,37267,HP,2,0
+571,49,Female,Business Owner,75698,Dell,1,0
+572,49,Male,Business Owner,39702,Dell,3,1
+573,30,Female,Professional,65964,Dell,4,0
+574,38,Male,Student,97800,Lenovo,4,0
+575,19,Female,Business Owner,80330,Apple,1,0
+576,27,Female,Business Owner,90416,Apple,1,0
+577,51,Male,Business Owner,31005,Apple,3,1
+578,47,Male,Professional,81051,Dell,1,0
+579,18,Male,Business Owner,28155,Lenovo,3,0
+580,29,Female,Student,83429,Lenovo,4,0
+581,24,Female,Student,53282,Lenovo,1,0
+582,41,Male,Student,27950,Dell,0,0
+583,51,Male,Student,46418,Lenovo,3,0
+584,52,Female,Professional,30292,HP,3,0
+585,19,Male,Business Owner,85328,HP,0,0
+586,31,Female,Professional,79809,Dell,0,0
+587,49,Female,Business Owner,88315,HP,3,1
+588,53,Male,Professional,60027,Dell,0,1
+589,21,Female,Student,33928,Lenovo,3,0
+590,32,Female,Professional,87813,Apple,1,1
+591,25,Male,Business Owner,53286,Apple,2,0
+592,37,Male,Professional,77360,Lenovo,4,0
+593,42,Male,Business Owner,78899,Apple,0,0
+594,57,Female,Business Owner,38250,Lenovo,0,0
+595,30,Female,Student,68831,HP,3,0
+596,25,Male,Business Owner,82501,Dell,4,0
+597,56,Male,Business Owner,33122,HP,1,0
+598,58,Male,Student,57889,HP,1,0
+599,39,Male,Student,88715,Dell,2,0
+600,28,Female,Professional,70350,Dell,0,0
+601,40,Male,Professional,28052,Lenovo,3,0
+602,40,Female,Student,70469,Lenovo,1,1
+603,53,Female,Professional,41895,HP,1,1
+604,41,Female,Business Owner,99705,HP,3,1
+605,47,Female,Student,30111,Dell,0,0
+606,28,Female,Professional,35959,Apple,0,0
+607,28,Male,Business Owner,43044,Apple,3,0
+608,28,Female,Student,43942,HP,1,0
+609,30,Female,Professional,71366,Lenovo,1,1
+610,38,Male,Professional,95290,HP,1,1
+611,50,Male,Professional,25347,Lenovo,3,0
+612,20,Male,Professional,68709,Dell,1,0
+613,21,Female,Professional,38351,HP,0,0
+614,19,Male,Student,85670,Dell,0,0
+615,18,Female,Professional,98620,Lenovo,2,0
+616,33,Female,Professional,37227,Dell,2,0
+617,25,Male,Business Owner,65659,Apple,2,1
+618,31,Female,Student,53147,Apple,2,0
+619,48,Female,Business Owner,87020,Lenovo,3,1
+620,20,Female,Student,98302,Dell,0,0
+621,33,Male,Professional,78482,Dell,3,0
+622,25,Female,Student,98376,Apple,2,1
+623,26,Female,Business Owner,88360,HP,4,0
+624,50,Female,Student,57121,Apple,3,1
+625,22,Male,Professional,95656,Lenovo,1,0
+626,21,Female,Business Owner,38549,Dell,4,0
+627,35,Male,Professional,85279,Dell,1,0
+628,43,Female,Professional,99471,Dell,4,0
+629,46,Female,Business Owner,97326,Lenovo,0,0
+630,51,Male,Business Owner,69264,Lenovo,1,0
+631,39,Female,Professional,50391,Apple,4,0
+632,32,Male,Student,73314,Apple,0,0
+633,25,Male,Student,99467,HP,1,0
+634,45,Female,Student,59965,HP,1,0
+635,53,Female,Business Owner,46117,Apple,1,1
+636,42,Female,Business Owner,74332,Lenovo,1,0
+637,56,Female,Student,72505,Lenovo,3,1
+638,44,Male,Student,31063,Apple,4,0
+639,30,Female,Professional,86996,Apple,3,0
+640,19,Female,Business Owner,58384,Lenovo,2,0
+641,50,Female,Business Owner,23073,HP,4,0
+642,57,Male,Professional,38982,Dell,4,1
+643,20,Female,Professional,21194,Dell,3,0
+644,42,Female,Student,90382,Dell,0,1
+645,56,Female,Student,48239,HP,4,0
+646,44,Female,Student,72759,Lenovo,1,0
+647,24,Male,Business Owner,41477,Apple,4,0
+648,34,Female,Business Owner,86441,Dell,0,0
+649,22,Female,Business Owner,63501,Apple,2,1
+650,26,Female,Professional,75061,Dell,1,0
+651,36,Female,Professional,59348,Dell,4,0
+652,44,Male,Professional,90869,Dell,0,1
+653,43,Female,Student,40550,Dell,3,1
+654,25,Male,Professional,37145,Lenovo,3,0
+655,35,Male,Professional,96934,Dell,3,0
+656,42,Male,Professional,62942,Lenovo,2,1
+657,58,Female,Professional,83221,Dell,1,1
+658,33,Female,Business Owner,75282,Lenovo,1,1
+659,21,Female,Professional,96021,Lenovo,4,1
+660,41,Male,Professional,67176,Dell,4,1
+661,42,Male,Student,23947,HP,0,1
+662,44,Male,Student,58606,Apple,1,1
+663,47,Female,Business Owner,25103,HP,0,0
+664,58,Male,Student,23994,Lenovo,4,0
+665,39,Male,Professional,61702,Apple,4,0
+666,55,Female,Professional,92964,Lenovo,4,0
+667,36,Male,Student,91779,Dell,0,0
+668,40,Male,Business Owner,43802,Lenovo,0,0
+669,35,Female,Student,56457,Lenovo,0,1
+670,26,Male,Business Owner,89675,Lenovo,3,0
+671,23,Female,Business Owner,84644,HP,0,0
+672,44,Male,Business Owner,91701,Dell,1,1
+673,23,Female,Student,63921,Dell,4,0
+674,37,Female,Professional,37778,Dell,0,1
+675,41,Female,Professional,98065,Dell,2,0
+676,28,Male,Professional,54640,Apple,4,1
+677,24,Female,Professional,73171,HP,0,0
+678,56,Female,Professional,84858,Apple,2,0
+679,23,Female,Professional,79081,Dell,1,0
+680,41,Male,Student,52451,HP,3,0
+681,37,Female,Professional,70708,Lenovo,2,0
+682,39,Male,Student,61691,Lenovo,3,0
+683,24,Female,Professional,56308,Apple,0,0
+684,34,Male,Business Owner,31883,Dell,2,0
+685,57,Female,Student,70212,HP,3,1
+686,22,Male,Professional,98199,HP,1,0
+687,25,Female,Student,75180,HP,2,0
+688,40,Male,Professional,55112,Apple,0,0
+689,38,Female,Professional,28980,Apple,3,0
+690,19,Female,Business Owner,83194,Lenovo,0,0
+691,56,Female,Business Owner,37040,HP,2,0
+692,33,Male,Professional,26918,HP,0,0
+693,29,Male,Business Owner,50355,HP,2,1
+694,39,Male,Business Owner,78654,Lenovo,2,0
+695,56,Female,Student,23545,Lenovo,2,0
+696,26,Male,Student,63333,Apple,0,0
+697,33,Female,Student,85005,Dell,4,0
+698,34,Female,Business Owner,58682,Lenovo,2,0
+699,24,Female,Business Owner,72583,Dell,3,0
+700,59,Male,Student,96343,HP,3,1
+701,49,Male,Student,74108,HP,2,0
+702,35,Male,Professional,88009,Lenovo,0,0
+703,32,Female,Professional,93449,Lenovo,2,1
+704,28,Male,Student,88856,Lenovo,4,1
+705,58,Male,Professional,31148,Apple,0,1
+706,53,Female,Business Owner,42832,HP,1,0
+707,41,Male,Student,39063,Lenovo,4,0
+708,24,Female,Professional,39305,Apple,1,0
+709,18,Male,Professional,50094,Apple,4,0
+710,26,Female,Professional,96646,HP,2,0
+711,33,Female,Professional,38318,Lenovo,2,1
+712,43,Male,Business Owner,56801,Apple,1,1
+713,37,Female,Student,38791,HP,2,1
+714,58,Female,Student,69678,HP,0,0
+715,30,Female,Business Owner,20493,HP,4,0
+716,31,Male,Student,52745,Dell,3,0
+717,31,Male,Business Owner,28960,HP,3,1
+718,26,Male,Business Owner,75466,HP,2,0
+719,54,Male,Professional,65088,Dell,2,0
+720,54,Female,Professional,93546,HP,1,0
+721,37,Female,Student,75880,HP,4,0
+722,27,Male,Professional,73993,HP,4,0
+723,59,Male,Student,92193,HP,0,0
+724,26,Male,Student,59760,Lenovo,1,0
+725,19,Female,Business Owner,61464,HP,0,1
+726,50,Male,Business Owner,68920,Lenovo,0,1
+727,54,Male,Business Owner,26771,Dell,3,0
+728,49,Female,Professional,44440,Dell,4,0
+729,27,Male,Professional,41288,Lenovo,1,1
+730,28,Female,Business Owner,35572,Dell,2,0
+731,59,Female,Business Owner,40557,Dell,1,0
+732,54,Female,Professional,58902,HP,0,0
+733,20,Female,Professional,59668,Dell,4,0
+734,27,Male,Business Owner,72147,Lenovo,1,1
+735,36,Male,Business Owner,49256,Lenovo,2,1
+736,37,Male,Professional,94457,Apple,3,1
+737,55,Female,Student,68462,Apple,1,1
+738,25,Female,Professional,62023,Lenovo,0,1
+739,39,Female,Student,88020,Lenovo,2,0
+740,34,Female,Student,60477,Apple,2,0
+741,45,Male,Business Owner,28385,Dell,0,0
+742,44,Female,Business Owner,61904,HP,2,0
+743,22,Male,Professional,59449,Dell,2,0
+744,55,Male,Business Owner,47696,Lenovo,2,1
+745,54,Male,Business Owner,61950,Lenovo,4,0
+746,27,Female,Professional,91059,Lenovo,0,0
+747,54,Male,Business Owner,69041,Dell,4,0
+748,55,Male,Business Owner,23965,Apple,0,0
+749,37,Female,Student,35162,Lenovo,1,0
+750,19,Female,Business Owner,73086,HP,4,0
+751,54,Male,Professional,37480,Lenovo,2,1
+752,28,Male,Professional,96129,Lenovo,1,1
+753,57,Male,Professional,34000,Dell,0,0
+754,18,Male,Business Owner,64111,Lenovo,4,0
+755,21,Male,Student,64234,Apple,1,0
+756,52,Female,Student,61692,Lenovo,1,0
+757,50,Female,Professional,25831,Dell,4,0
+758,53,Female,Business Owner,93775,Lenovo,4,1
+759,36,Female,Student,98135,HP,2,0
+760,37,Male,Professional,31061,HP,4,0
+761,44,Male,Professional,55157,Dell,2,0
+762,34,Male,Professional,98314,Lenovo,0,0
+763,22,Male,Professional,21118,Lenovo,0,0
+764,28,Male,Professional,95221,Dell,3,0
+765,51,Female,Professional,66606,Lenovo,2,1
+766,59,Male,Student,52351,Lenovo,3,0
+767,24,Male,Professional,59398,Lenovo,4,0
+768,38,Female,Business Owner,67641,Lenovo,0,0
+769,35,Female,Professional,57778,HP,3,1
+770,54,Male,Business Owner,52912,Dell,0,1
+771,19,Female,Student,95218,Dell,1,1
+772,19,Male,Business Owner,30679,Dell,2,0
+773,35,Female,Professional,98680,HP,2,0
+774,51,Female,Student,85745,HP,0,0
+775,57,Female,Business Owner,66578,Apple,0,0
+776,45,Female,Business Owner,30927,HP,4,0
+777,32,Male,Professional,75883,Lenovo,3,0
+778,35,Female,Business Owner,23976,HP,4,0
+779,54,Female,Business Owner,81587,Lenovo,1,0
+780,55,Male,Business Owner,77335,Dell,2,1
+781,41,Male,Student,50564,Dell,3,0
+782,57,Male,Professional,60803,Dell,2,1
+783,59,Male,Student,81157,HP,4,0
+784,47,Female,Student,34322,HP,2,0
+785,51,Male,Student,57898,Dell,4,0
+786,56,Female,Student,22104,Lenovo,2,0
+787,45,Male,Professional,99961,HP,1,0
+788,59,Male,Student,29688,HP,0,0
+789,32,Male,Student,86523,HP,3,1
+790,52,Male,Business Owner,99468,HP,3,1
+791,47,Female,Professional,40107,HP,3,0
+792,33,Female,Professional,40882,HP,4,0
+793,25,Male,Professional,69944,Lenovo,4,0
+794,37,Male,Professional,66019,Lenovo,2,0
+795,51,Male,Student,82745,Apple,1,1
+796,33,Male,Student,48434,Lenovo,1,0
+797,35,Male,Business Owner,91683,Lenovo,4,0
+798,59,Male,Student,94760,Apple,2,1
+799,32,Male,Business Owner,71526,Dell,4,0
+800,21,Female,Business Owner,41418,Lenovo,0,0
+801,49,Female,Student,49894,Apple,3,1
+802,21,Male,Business Owner,80348,Lenovo,4,0
+803,20,Male,Student,46165,Lenovo,3,0
+804,34,Male,Professional,72452,Lenovo,2,1
+805,52,Male,Business Owner,52553,Lenovo,0,1
+806,52,Female,Business Owner,52409,Dell,1,0
+807,51,Male,Business Owner,29105,HP,4,1
+808,42,Male,Business Owner,69276,Lenovo,3,0
+809,23,Female,Business Owner,89069,HP,4,0
+810,41,Male,Professional,23296,Apple,1,0
+811,47,Female,Business Owner,98624,HP,3,0
+812,45,Male,Professional,21174,Dell,1,1
+813,33,Male,Student,85267,Lenovo,3,0
+814,43,Female,Business Owner,31034,HP,2,0
+815,43,Female,Student,20083,HP,3,0
+816,40,Male,Student,32193,Dell,4,1
+817,18,Male,Student,68757,Dell,2,1
+818,39,Female,Business Owner,98259,HP,4,1
+819,35,Male,Professional,76059,Apple,4,1
+820,35,Female,Business Owner,96924,Apple,2,0
+821,25,Male,Business Owner,42342,Dell,0,1
+822,34,Female,Business Owner,42898,Dell,0,0
+823,18,Female,Business Owner,62106,Dell,1,1
+824,44,Female,Business Owner,53995,HP,3,1
+825,22,Female,Professional,79859,Lenovo,1,0
+826,22,Male,Student,64981,Apple,0,0
+827,56,Female,Student,70969,Apple,3,0
+828,33,Male,Business Owner,48227,Lenovo,1,0
+829,38,Male,Business Owner,39687,HP,3,1
+830,22,Female,Business Owner,40026,Lenovo,4,0
+831,34,Female,Student,82281,Apple,3,0
+832,58,Female,Professional,65994,Apple,1,1
+833,28,Female,Business Owner,89383,Lenovo,0,1
+834,26,Male,Business Owner,74693,HP,3,1
+835,26,Female,Student,36901,Dell,4,0
+836,44,Female,Student,35016,HP,1,1
+837,43,Male,Student,77240,Dell,4,0
+838,45,Female,Business Owner,62292,Dell,3,0
+839,59,Male,Student,35327,HP,3,0
+840,59,Male,Student,86816,Lenovo,3,0
+841,36,Female,Business Owner,52429,Dell,0,1
+842,59,Female,Student,20732,HP,1,1
+843,48,Female,Business Owner,87606,Dell,0,0
+844,43,Female,Business Owner,79572,Lenovo,3,1
+845,20,Male,Student,89592,HP,2,0
+846,42,Female,Professional,34439,Lenovo,2,0
+847,18,Male,Business Owner,22469,Dell,2,0
+848,43,Female,Professional,39563,Lenovo,1,1
+849,33,Male,Student,99655,Apple,3,0
+850,40,Female,Professional,60697,Dell,1,0
+851,18,Male,Professional,28880,Dell,1,0
+852,55,Female,Student,26844,HP,3,0
+853,45,Female,Professional,39814,HP,3,0
+854,27,Male,Business Owner,44808,HP,4,0
+855,31,Female,Student,46806,Dell,2,0
+856,22,Female,Student,36621,HP,3,0
+857,47,Male,Student,81974,HP,0,0
+858,23,Female,Professional,23673,Dell,2,0
+859,35,Male,Professional,91084,HP,3,0
+860,48,Male,Student,39993,HP,2,0
+861,55,Male,Student,95478,HP,2,0
+862,56,Male,Professional,29457,HP,0,0
+863,59,Female,Business Owner,91507,HP,0,0
+864,49,Female,Business Owner,58335,Dell,2,0
+865,21,Female,Professional,47380,Apple,2,1
+866,18,Female,Business Owner,70460,Dell,3,0
+867,21,Female,Student,90232,Lenovo,0,0
+868,58,Female,Student,31707,HP,2,0
+869,47,Female,Student,35355,Apple,4,0
+870,36,Male,Student,66363,Apple,2,0
+871,29,Female,Professional,86150,Dell,4,0
+872,46,Male,Student,76495,Dell,4,1
+873,36,Male,Professional,93628,Dell,0,0
+874,54,Male,Professional,39328,Lenovo,2,1
+875,44,Male,Student,36437,Lenovo,1,1
+876,58,Male,Professional,24883,HP,1,0
+877,47,Male,Business Owner,22422,Lenovo,0,0
+878,52,Female,Business Owner,88286,Apple,1,0
+879,25,Male,Student,93866,Apple,1,0
+880,58,Female,Professional,78216,Apple,0,0
+881,20,Female,Professional,50951,Apple,3,0
+882,19,Female,Business Owner,48200,Apple,4,1
+883,19,Male,Student,39039,HP,0,0
+884,21,Female,Student,34590,Apple,3,0
+885,33,Male,Business Owner,58563,Lenovo,4,0
+886,30,Male,Business Owner,98580,Dell,2,1
+887,49,Female,Professional,23426,Lenovo,2,0
+888,25,Male,Student,68576,HP,2,0
+889,53,Female,Student,73231,Dell,0,0
+890,30,Male,Business Owner,42056,HP,2,0
+891,55,Male,Business Owner,26651,HP,3,1
+892,19,Male,Professional,78109,HP,4,1
+893,22,Female,Business Owner,28758,Dell,4,0
+894,26,Female,Professional,65278,Apple,0,1
+895,24,Female,Professional,21337,HP,2,1
+896,52,Female,Student,41409,HP,0,0
+897,26,Male,Student,73322,Dell,3,0
+898,40,Female,Business Owner,68334,Apple,3,0
+899,38,Male,Student,31523,Apple,1,1
+900,36,Male,Student,79396,HP,4,1
+901,47,Male,Professional,36856,Apple,0,0
+902,48,Female,Professional,56133,Lenovo,4,1
+903,59,Male,Professional,28023,Dell,2,0
+904,28,Male,Professional,85175,Dell,4,1
+905,19,Female,Business Owner,32796,Dell,4,1
+906,25,Female,Professional,78209,Lenovo,4,1
+907,44,Male,Student,78254,Apple,3,1
+908,36,Female,Business Owner,37909,Apple,0,1
+909,42,Female,Student,31318,Apple,4,0
+910,53,Male,Student,47380,Dell,4,0
+911,38,Male,Business Owner,66066,HP,0,1
+912,59,Female,Student,31156,Dell,4,1
+913,49,Female,Student,25048,Lenovo,2,1
+914,45,Female,Professional,58952,Lenovo,1,0
+915,30,Female,Business Owner,38292,Apple,2,0
+916,40,Female,Student,71090,Dell,3,0
+917,50,Male,Business Owner,51779,Lenovo,0,1
+918,40,Male,Professional,95498,HP,2,0
+919,19,Male,Business Owner,31140,Apple,2,1
+920,55,Male,Student,85354,HP,1,0
+921,25,Female,Professional,70460,Dell,2,1
+922,53,Female,Professional,79535,Apple,2,0
+923,44,Female,Business Owner,79228,Apple,2,0
+924,56,Female,Business Owner,75599,Dell,4,0
+925,59,Male,Professional,24782,Dell,1,1
+926,21,Female,Business Owner,48217,Apple,3,1
+927,44,Female,Professional,33423,HP,0,0
+928,42,Female,Business Owner,43256,Dell,4,0
+929,21,Female,Student,81328,Dell,4,1
+930,54,Male,Business Owner,32567,Apple,2,0
+931,37,Male,Professional,57591,HP,2,0
+932,38,Male,Student,96834,HP,4,0
+933,23,Male,Professional,59081,Lenovo,1,1
+934,25,Female,Business Owner,68733,Dell,4,0
+935,39,Female,Student,60481,HP,4,0
+936,35,Male,Business Owner,44110,Apple,3,1
+937,18,Male,Business Owner,86937,Apple,0,0
+938,54,Female,Professional,23907,Lenovo,2,0
+939,43,Female,Professional,38397,Lenovo,3,0
+940,47,Male,Business Owner,49470,Lenovo,1,1
+941,38,Male,Business Owner,47444,HP,4,1
+942,54,Male,Professional,45144,Lenovo,0,0
+943,41,Male,Professional,66955,HP,0,0
+944,49,Male,Student,77476,Dell,2,0
+945,40,Female,Student,54803,Apple,4,1
+946,40,Female,Student,57795,Dell,2,0
+947,29,Female,Student,80008,Apple,3,0
+948,23,Male,Professional,32033,Lenovo,3,1
+949,23,Male,Professional,23156,HP,2,0
+950,47,Male,Student,50467,Dell,1,0
+951,45,Female,Student,95080,Lenovo,2,0
+952,45,Female,Business Owner,24219,Lenovo,4,1
+953,42,Female,Student,90447,Lenovo,0,0
+954,24,Male,Professional,98139,HP,3,0
+955,26,Female,Professional,82202,Apple,3,0
+956,59,Male,Business Owner,34658,Dell,0,0
+957,24,Female,Student,33516,Dell,2,0
+958,21,Male,Business Owner,56265,HP,0,0
+959,39,Female,Professional,94875,HP,0,0
+960,45,Male,Professional,80044,HP,2,0
+961,20,Male,Business Owner,67636,Dell,0,1
+962,28,Female,Business Owner,47321,Lenovo,3,0
+963,30,Female,Student,86993,Lenovo,1,0
+964,50,Male,Business Owner,35628,Dell,2,0
+965,57,Male,Student,55815,HP,0,0
+966,29,Male,Student,32801,Lenovo,1,0
+967,18,Female,Business Owner,95399,Apple,0,0
+968,19,Female,Professional,68048,Lenovo,3,1
+969,31,Female,Professional,27381,Lenovo,1,1
+970,45,Male,Business Owner,44682,Apple,4,1
+971,30,Female,Student,32674,Dell,1,0
+972,57,Male,Professional,33705,Apple,4,0
+973,19,Male,Student,65051,Lenovo,4,0
+974,45,Female,Business Owner,69256,HP,3,0
+975,57,Male,Business Owner,21285,Dell,0,0
+976,36,Male,Professional,25642,Lenovo,3,0
+977,40,Female,Student,37062,HP,2,0
+978,59,Female,Professional,65791,Dell,0,0
+979,44,Female,Professional,72291,Apple,4,0
+980,53,Female,Student,98412,Lenovo,2,0
+981,50,Male,Student,44635,Apple,1,0
+982,29,Male,Student,48227,Apple,1,0
+983,42,Female,Business Owner,91727,Apple,2,1
+984,29,Female,Student,93866,HP,2,1
+985,48,Male,Student,42236,Dell,1,0
+986,55,Male,Business Owner,72857,Dell,4,0
+987,46,Female,Business Owner,92900,Lenovo,2,0
+988,43,Male,Business Owner,67207,Dell,2,0
+989,49,Male,Professional,96691,HP,0,0
+990,40,Male,Business Owner,55118,Lenovo,3,1
+991,24,Male,Business Owner,66983,Lenovo,3,1
+992,41,Female,Professional,64524,Apple,0,0
+993,43,Female,Student,54076,Apple,1,0
+994,50,Female,Business Owner,45317,Dell,1,0
+995,27,Male,Student,52045,Apple,2,0
+996,22,Female,Professional,36228,HP,3,0
+997,37,Male,Student,31245,Apple,1,0
+998,28,Male,Professional,53668,Lenovo,2,0
+999,19,Female,Student,55492,Apple,0,1
+1000,53,Male,Student,59441,HP,4,0
